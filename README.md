@@ -38,7 +38,7 @@ Tanpa dummy, tanpa simulasi.
 ## 📂 Struktur
 
 ```text
-By-Poloss-Search-Scraper/
+By-Poloss..-..Search-Scraper/
 ├── search_scraper.rb
 └── README.md
 ````
@@ -48,8 +48,8 @@ By-Poloss-Search-Scraper/
 ## 🚀 Instalasi
 
 ```bash
-git clone https://github.com/USERNAME/By-Poloss-Search-Scraper.git
-cd By-Poloss-Search-Scraper
+git clone https://github.com/USERNAME/By-Poloss..-..Search-Scraper.git
+cd By-Poloss..-..Search-Scraper
 gem install httparty nokogiri
 ```
 
